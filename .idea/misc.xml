@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic01d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic01n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic02d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic02n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic03d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic03n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic04d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic04n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic09d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic09n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic10d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic10n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic11d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic11n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic13d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic13n.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic50d.xml" value="0.1" />
+        <entry key="..\:/Users/Denis/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/ic50n.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
