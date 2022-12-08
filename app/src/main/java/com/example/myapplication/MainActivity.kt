@@ -131,5 +131,5 @@ fun full_view(myViewModel: MainViewModel){
             }
         }
 
-    //test
+    //test 323223
 }
