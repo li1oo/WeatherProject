@@ -130,6 +130,6 @@ fun full_view(myViewModel: MainViewModel){
                     CustomDialog(message, openDialog, editMessage, myViewModel)
             }
         }
-///fdsjklfjdlsfjlskfjdl
+///fdsjklfjdlsfjlskfjdl   but im new robot
 
 }
